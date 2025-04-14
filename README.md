@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/T3A3FrE.png" align="right" width="230" />
+
 
 # Hi there! I'm Carlos 🍃  
 *Dreamer, Builder & Nature-Loving Developer*
@@ -51,7 +51,6 @@ Welcome to my world — where code meets creativity and Studio Ghibli vibes shap
 - 💼 Currently focused on building business solutions with **Microsoft Power Platform**
 
 ---
----
 
 ## 🌌 Let's Stay in Touch
 
@@ -69,9 +68,6 @@ Whether you're a fellow dev, a recruiter, or just someone who appreciates beauti
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/S6lfMFo.png" width="80%" alt="Ghibli style landscape" />
-</p>
 
 <p align="center">
   <em>“Sometimes you have to fight for the things that are worth fighting for.”</em><br/>
