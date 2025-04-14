@@ -51,11 +51,21 @@ Welcome to my world — where code meets creativity and Studio Ghibli vibes shap
 - 💼 Currently focused on building business solutions with **Microsoft Power Platform**
 
 ---
+---
 
-## 📫 Let's Connect!
+## 🌌 Let's Stay in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-pombo-programador/)  
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FEC89A?style=for-the-badge&logo=vercel&logoColor=black)](https://portafolio-cpomara.vercel.app/)
+Whether you're a fellow dev, a recruiter, or just someone who appreciates beautiful things made with care —  
+**I'm always open to connect, share ideas, or collaborate on creative projects.**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-pombo-programador/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portafolio-cpomara.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-My_Portfolio-FEC89A?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
 
 ---
 
@@ -63,6 +73,11 @@ Welcome to my world — where code meets creativity and Studio Ghibli vibes shap
   <img src="https://i.imgur.com/S6lfMFo.png" width="80%" alt="Ghibli style landscape" />
 </p>
 
----
+<p align="center">
+  <em>“Sometimes you have to fight for the things that are worth fighting for.”</em><br/>
+  <strong>— The Secret World of Arrietty 🍂</strong>
+</p>
 
-> *"Sometimes you have to fight for the things that are worth fighting for."* — The Secret World of Arrietty 🍂
+<p align="center">
+  <sub><i>Thank you for stopping by 🌱 Have a peaceful day!</i></sub>
+</p>
