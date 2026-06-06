@@ -1,7 +1,5 @@
-
-
 # Hi there! I'm Carlos 🍃  
-*Dreamer, Builder & Nature-Loving Developer*
+*Dreamer, Builder, Power Platform Developer & Nature-Loving Creator*
 
 Welcome to my world — where code meets creativity and Studio Ghibli vibes shape the experience ✨🌿
 
@@ -9,25 +7,25 @@ Welcome to my world — where code meets creativity and Studio Ghibli vibes shap
 
 ## 🧰 Technologies & Tools I Use
 
-### 🌐 Languages  
+### 🌐 Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 
-### 🧱 Frameworks  
+### 🧱 Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=leaflet)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro)
 
-### 🗄️ Databases  
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🛠️ Tools  
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -35,27 +33,32 @@ Welcome to my world — where code meets creativity and Studio Ghibli vibes shap
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo)
 
-### ☁️ Microsoft Platform  
+### ☁️ Microsoft Power Platform
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint)
-![Dataverse](https://img.shields.io/badge/Dataverse-28A745?style=for-the-badge&logo=dataverse)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint)
+![Dataverse](https://img.shields.io/badge/Dataverse-107C10?style=for-the-badge)
 
 ---
 
 ## 🌠 A Little More About Me
 
-- 🎨 I like building projects with a strong aesthetic sense  
-- 🧙 I bring cozy Studio Ghibli vibes into code  
-- 🌱 Always growing and exploring new tools  
-- 💼 Currently focused on building business solutions with **Microsoft Power Platform**
+- 🎨 Passionate about creating functional and visually appealing digital experiences
+- 🧙 Bringing Studio Ghibli-inspired creativity into every project
+- 🌱 Constantly learning and exploring new technologies
+- 📱 Developing business applications with Power Apps
+- 🔄 Automating workflows and business processes with Power Automate
+- 🗂️ Managing and integrating data through SharePoint and Dataverse
+- 💼 Focused on delivering efficient business solutions with Microsoft Power Platform
+- 🚀 Combining low-code tools with traditional development to build complete solutions
 
 ---
 
 ## 🌌 Let's Stay in Touch
 
-Whether you're a fellow dev, a recruiter, or just someone who appreciates beautiful things made with care —  
-**I'm always open to connect, share ideas, or collaborate on creative projects.**
+Whether you're a fellow developer, a recruiter, or simply someone who appreciates beautiful things made with care —
+
+**I'm always open to connect, share ideas, and collaborate on meaningful projects.**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-pombo-programador/" target="_blank">
@@ -68,9 +71,8 @@ Whether you're a fellow dev, a recruiter, or just someone who appreciates beauti
 
 ---
 
-
 <p align="center">
-  <em>“Sometimes you have to fight for the things that are worth fighting for.”</em><br/>
+  <em>"Sometimes you have to fight for the things that are worth fighting for."</em><br/>
   <strong>— The Secret World of Arrietty 🍂</strong>
 </p>
 
