@@ -136,6 +136,8 @@ Incluye registro de series, repeticiones y cargas, seguimiento por ejercicios y 
 
 Aplicación móvil desarrollada principalmente con **Flutter**. Reúne diferentes minijuegos, como Simón dice, Hundir la flota, Tres en raya, Conecta 4 y una versión jugable de Cluedo.
 
+**Estado:** en desarrollo.
+
 ---
 
 ## Certificaciones
