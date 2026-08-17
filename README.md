@@ -25,9 +25,9 @@ Mi objetivo es transformar necesidades de negocio y procesos manuales en solucio
 
 * Más de **1,5 años de experiencia** en desarrollo y digitalización de procesos.
 * Más de **50 automatizaciones** desarrolladas.
-* Experiencia con aplicaciones Canvas y Model-Driven.
+* Experiencia con aplicaciones Canvas.
 * Integración de datos mediante SharePoint, Dataverse y servicios externos.
-* Desarrollo de soluciones con Power Apps y Power Automate.
+* Desarrollo de soluciones con Power Apps, Power Automate y Power BI.
 * Creación de documentación técnica y manuales de usuario.
 * Experiencia complementaria en desarrollo web, móvil y de escritorio.
 
