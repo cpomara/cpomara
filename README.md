@@ -26,7 +26,7 @@ Mi objetivo es transformar necesidades de negocio y procesos manuales en solucio
 * Más de **1,5 años de experiencia** en desarrollo y digitalización de procesos.
 * Más de **50 automatizaciones** desarrolladas.
 * Experiencia con aplicaciones Canvas y Model-Driven.
-* Integraciones mediante SharePoint, Dataverse y servicios externos.
+* Integración de datos mediante SharePoint, Dataverse y servicios externos.
 * Desarrollo de soluciones con Power Apps y Power Automate.
 * Creación de documentación técnica y manuales de usuario.
 * Experiencia complementaria en desarrollo web, móvil y de escritorio.
@@ -106,11 +106,23 @@ Mi objetivo es transformar necesidades de negocio y procesos manuales en solucio
 
 ## Proyectos destacados
 
+### 📍 RedTrace
+
+Aplicación web que permite guardar la ubicación de un vehículo y consultarla posteriormente, evitando olvidar dónde se ha aparcado.
+
+Utiliza la geolocalización del dispositivo y permite conservar la ubicación durante un máximo de 30 días.
+
+[Visitar RedTrace](https://red-trace.vercel.app/)
+
+**Estado:** aplicación funcional y publicada.
+
 ### 🖥️ CarlOS
 
 Portfolio profesional desarrollado con **Next.js, React y TypeScript**. Presenta mi experiencia, proyectos y tecnologías mediante una interfaz inspirada en un sistema operativo.
 
 [Visitar CarlOS](https://portafolio-cpomara.vercel.app/)
+
+**Estado:** aplicación funcional y publicada.
 
 ### 🏋️ Deyro
 
@@ -120,13 +132,9 @@ Incluye registro de series, repeticiones y cargas, seguimiento por ejercicios y 
 
 **Estado:** en desarrollo.
 
-### 📍 RedTrace
-
-Aplicación web que permite guardar la ubicación de un vehículo y consultarla posteriormente. La información puede conservarse durante un máximo de 30 días.
-
 ### 🎮 Hubles
 
-Aplicación móvil desarrollada principalmente con Flutter. Reúne diferentes minijuegos, como Simón dice, Hundir la flota, Tres en raya, Conecta 4 y una versión jugable de Cluedo.
+Aplicación móvil desarrollada principalmente con **Flutter**. Reúne diferentes minijuegos, como Simón dice, Hundir la flota, Tres en raya, Conecta 4 y una versión jugable de Cluedo.
 
 ---
 
@@ -142,6 +150,7 @@ Aplicación móvil desarrollada principalmente con Flutter. Reúne diferentes mi
 * Desarrollando y evolucionando soluciones empresariales con Microsoft Power Platform.
 * Profundizando en Power BI y modelado de datos.
 * Desarrollando Deyro como proyecto personal.
+* Mejorando RedTrace en materia de seguridad, rendimiento y experiencia móvil.
 * Combinando herramientas low-code con desarrollo tradicional.
 
 ---
